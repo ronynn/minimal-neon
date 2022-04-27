@@ -1,5 +1,5 @@
 ---
-title: Jekyll Theme Comics
+title: Minimal-Neon
 ---
 <h2>Recent Blog Posts</h2>
 
@@ -14,8 +14,7 @@ title: Jekyll Theme Comics
   {% endfor %}
 </ul>
 
-
-A minimalist yet exciting theme based on action comics. Licensed under the [MIT License](./LICENSE).
+Minimal-Neon is a Jekyll Theme inspired by computer terminals perfect for tech blogs.
 
 ## Roadmap
 
@@ -23,11 +22,13 @@ See the [open issues](https://github.com/r01nx/jekyll-theme-comics/issues) for a
 
 ## Project philosophy
 
-The Comics theme originated from the idea of presenting a page with a colorscheme that excites the vision. It is intended to make it quick and easy for users to create a website. The theme is perfect for exciting projects, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+The minimal-neon theme is something I always wanted to put together. It gives the futuristic vibe one gets from the movies and yet remains eye pleasing and readable. 
+
+The theme structure is intended to make it quick and easy for users to create a website, it provides the user the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout).
 
 ## Contributing
 
-Interested in contributing to Comics? I'd love your help. Comics is an open source project.
+Interested in contributing? I'd love your help. Minimal-Neon is an open source project.
 
 ## Author
 

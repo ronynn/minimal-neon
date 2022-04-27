@@ -19,7 +19,9 @@
            </a>
         {% endfor %}
       </nav>
-    {% include back_link.html %}
+      <br/>
+      {% if is_post %}{% include back_link.html %}{% endif %}
+      <br/>
       <main>
         {% if page.title %}
           <div>
