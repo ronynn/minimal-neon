@@ -9,15 +9,22 @@ $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 
+@mixin media-max-width($max-width) {
+  @media (max-width: $max-width) {
+      @content;
+  }
+}
+
 html, body {
-	margin: 20px 20px;
+  margin: 20px 20px;
+  padding: 20px 20px ;
+  background-color: $body-background;
   color: $body-foreground;
-  background-color:black;
   font-size: 1.5 em;
   line-height: 1.5;
   font-family: 'Source Code Pro', monospace;
-  position:absolute;
 }
+
 
 li {
   line-height: 1.4 ;
@@ -29,7 +36,7 @@ header {
 
 .nav {
 	font-size: 1.5em;
-	align: right;
+	text-align: right;
 }
 
 
@@ -127,4 +134,13 @@ a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
   text-decoration:none;
+}
+
+
+.missing {
+	font-size: 32px;
+}
+
+.pagination {
+	align:center;
 }
