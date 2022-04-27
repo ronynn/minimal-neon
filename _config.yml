@@ -1,0 +1,23 @@
+# ----------- CONFIGURABLE START -----------
+title:            "minimal-neon"
+description:      "Jekyll theme based on futuristic computer terminals in minimal."
+url:              https://r01nx.github.io/minimal-neon # Site url, without a slash at the end.
+signoff:          "r01nx" # Your name
+
+links:
+  - name:         /Posts  
+    url:          /
+    external:     false
+  - name:         /About-Me  
+    url:          /about
+    external:     false
+    
+theme_config:
+  back_home_text: "../back" # customize text for homepage link in post layout
+
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
