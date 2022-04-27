@@ -9,14 +9,8 @@ $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 
-@mixin media-max-width($max-width) {
-  @media (max-width: $max-width) {
-      @content;
-  }
-}
-
-
 html, body {
+	margin: 20px 20px;
   color: $body-foreground;
   background-color:black;
   font-size: 1.5 em;
@@ -35,7 +29,6 @@ header {
 
 .nav {
 	font-size: 1.5em;
-	text-align: right;
 	align: right;
 }
 
