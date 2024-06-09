@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
 title:            "minimal-neon"
 description:      "Jekyll theme based on futuristic computer terminals in minimal."
-url:              https://r01nx.github.io/minimal-neon # Site url, without a slash at the end.
-signoff:          "r01nx" # Your name
+url:              https://ronynn.github.io/minimal-neon # Site url, without a slash at the end.
+signoff:          "ronynn" # Your name
 
 links:
   - name:         /Posts  

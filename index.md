@@ -32,5 +32,5 @@ Interested in contributing? I'd love your help. Minimal-Neon is an open source p
 
 ## Author
 
-[rohan](https://github.com/ronynn)
+[ronynn](https://github.com/ronynn)
 

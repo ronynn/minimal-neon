@@ -111,7 +111,7 @@ Interested in contributing to minimal-neon? I'd love your help. minimal-neon is 
 
 ## Author
 
-[rohan](https://github.com/ronynn)
+[ronynn](https://github.com/ronynn)
 
 ## License
 
