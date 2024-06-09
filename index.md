@@ -18,7 +18,7 @@ Minimal-Neon is a Jekyll Theme inspired by computer terminals perfect for tech b
 
 ## Roadmap
 
-See the [open issues](https://github.com/r01nx/jekyll-theme-comics/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/ronynn/jekyll-theme-comics/issues) for a list of proposed features (and known issues).
 
 ## Project philosophy
 
@@ -32,5 +32,5 @@ Interested in contributing? I'd love your help. Minimal-Neon is an open source p
 
 ## Author
 
-[rohan](https://github.com/r01nx)
+[rohan](https://github.com/ronynn)
 

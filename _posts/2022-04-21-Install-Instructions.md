@@ -5,7 +5,7 @@ date: 2022-04-21 00:06:52
 
 ## Get started
 
-1. [Fork the repository](https://github.com/r01nx/minimal-neon/fork)
+1. [Fork the repository](https://github.com/ronynn/minimal-neon/fork)
 
 2. Clone the repository: `git clone https://github.com/username/minimal-neon`
 
@@ -29,5 +29,5 @@ date: 2022-04-21 00:06:52
 
 ## The end
 
-Like it? Why not put a [Star](https://github.com/r01nx/minimal-neon)!<br/>
-Problem? [Use GitHub Issues](https://github.com/r01nx/minimal-neon/issues).
+Like it? Why not put a [Star](https://github.com/ronynn/minimal-neon)!<br/>
+Problem? [Use GitHub Issues](https://github.com/ronynn/minimal-neon/issues).
